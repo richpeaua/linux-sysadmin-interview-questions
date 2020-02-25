@@ -37,8 +37,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 
 #### [[⬆]](#toc) <a name='general'>General Questions:</a>
 
-* Talk about your preferred development/administration environment. (OS, Editor, Browsers, Tools etc.)
-- [ ]
+- [ ] Talk about your preferred development/administration environment. (OS, Editor, Browsers, Tools etc.
 * Tell me about the last major Linux project you finished.
 * Tell me about the biggest mistake you've made in [some recent time period] and how you would do it differently today. What did you learn from this experience?
 * Why we must choose you?
