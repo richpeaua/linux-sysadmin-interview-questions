@@ -41,7 +41,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 - [ ] Tell me about the last major Linux project you finished.
 - [ ] Tell me about the biggest mistake you've made in [some recent time period] and how you would do it differently today. What did you learn from this experience?
 - [ ] Why we must choose you?
-- [*] What function does DNS play on a network?
+- [x] What function does DNS play on a network?
 DNS allows domain names entered into a web browser or web application to be translated into an IP address that will allow the computer systems to find and communicate with each other.
 - [ ] What is HTTP?
 - [ ] What is an HTTP proxy and how does it work?
